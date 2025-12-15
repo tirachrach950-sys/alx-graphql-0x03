@@ -1,1 +1,7 @@
+{
+  "dependencies": {
+    "@sentry/react": "^8.x.x",
+    "@sentry/nextjs": "^8.x.x"
+  }
+}
 
